@@ -17,7 +17,7 @@
     "@material-ui/styles": "^4.5.0",
     "@material-ui/system": "^4.5.1",
     "babel-polyfill": "^6.26.0",
-    "immer": "^5.0.0",
+    "immer": "^8.0.1",
     "path-to-regexp": "^3.2.0",
     "raw-body": "^2.4.1",
     "react": "^16.10.2",
